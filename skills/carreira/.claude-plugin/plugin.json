@@ -1,0 +1,19 @@
+{
+  "name": "carreira",
+  "description": "Skills de carreira - posicionamento, bio, LinkedIn, curriculo, mentoria, thought leadership, portfolio e precificacao para freelancers.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Tiago PGR",
+    "email": "tiagopgr22@gmail.com"
+  },
+  "homepage": "https://github.com/tiagopgr/skills-ia",
+  "repository": "https://github.com/tiagopgr/skills-ia",
+  "license": "MIT",
+  "keywords": [
+    "carreira",
+    "linkedin",
+    "posicionamento",
+    "curriculo",
+    "mentoria"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "juridico-advocacia",
+  "description": "Skills juridicos - peticoes, contestacoes, pareceres, contratos, gestao de escritorio, captacao de clientes e honorarios.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Tiago PGR",
+    "email": "tiagopgr22@gmail.com"
+  },
+  "homepage": "https://github.com/tiagopgr/skills-ia",
+  "repository": "https://github.com/tiagopgr/skills-ia",
+  "license": "MIT",
+  "keywords": [
+    "juridico",
+    "advocacia",
+    "peticoes",
+    "contratos",
+    "escritorio"
+  ]
+}

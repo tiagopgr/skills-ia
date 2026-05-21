@@ -1,0 +1,190 @@
+# ─── Sistema Operacional ───────────────────────────────────────────────────────
+
+# Windows
+Thumbs.db
+Thumbs.db:encdata
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# Linux
+*~
+.directory
+
+# ─── Editores e IDEs ───────────────────────────────────────────────────────────
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains (IntelliJ, PyCharm, WebStorm, etc.)
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim / Neovim
+*.swp
+*.swo
+*~
+.netrwhist
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# ─── Linguagens e Runtimes ─────────────────────────────────────────────────────
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+.env
+.venv
+env/
+venv/
+ENV/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.ruff_cache/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.npm
+.yarn/cache
+.yarn/unplugged
+.pnp.*
+dist/
+.next/
+.nuxt/
+.cache/
+.parcel-cache/
+
+# Java
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+target/
+.gradle/
+
+# Ruby
+*.gem
+.bundle/
+vendor/bundle/
+.byebug_history
+
+# Go
+*.exe
+*.test
+*.out
+
+# Rust
+target/
+Cargo.lock
+
+# ─── Ambientes e Configurações Sensíveis ───────────────────────────────────────
+
+.env
+.env.local
+.env.*.local
+.env.development
+.env.production
+.env.staging
+.env.test
+*.pem
+*.key
+*.cert
+*.p12
+secrets.json
+credentials.json
+service-account.json
+config.local.*
+
+# ─── Logs e Temporários ────────────────────────────────────────────────────────
+
+*.log
+logs/
+log/
+tmp/
+temp/
+*.tmp
+*.temp
+*.bak
+*.backup
+*.orig
+*.cache
+
+# ─── Dados e Bancos ────────────────────────────────────────────────────────────
+
+*.sqlite
+*.sqlite3
+*.db
+*.db-shm
+*.db-wal
+*.csv.bak
+dump.sql
+*.dump
+
+# ─── Dependências e Pacotes ────────────────────────────────────────────────────
+
+vendor/
+packages/
+bower_components/
+
+# ─── Build e Compilados ────────────────────────────────────────────────────────
+
+out/
+output/
+release/
+*.min.js
+*.min.css
+*.map
+
+# ─── Ferramentas de IA e Claude ────────────────────────────────────────────────
+
+.claude/
+memory/
+*.conversation

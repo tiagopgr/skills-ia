@@ -1,0 +1,20 @@
+{
+  "name": "codigo",
+  "description": "Skills para desenvolvimento de software - debugging, design de API RESTful, CI/CD, Dockerfile, code review, testes e autenticacao.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Tiago PGR",
+    "email": "tiagopgr22@gmail.com"
+  },
+  "homepage": "https://github.com/tiagopgr/skills-ia",
+  "repository": "https://github.com/tiagopgr/skills-ia",
+  "license": "MIT",
+  "keywords": [
+    "codigo",
+    "desenvolvimento",
+    "api",
+    "debug",
+    "testes",
+    "devops"
+  ]
+}

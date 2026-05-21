@@ -1,0 +1,187 @@
+{
+  "name": "skills-ia",
+  "owner": {
+    "name": "Tiago PGR",
+    "email": "tiagopgr22@gmail.com"
+  },
+  "description": "+1.100 skills profissionais prontos para usar com Claude Code - 13 categorias.",
+  "plugins": [
+    {
+      "name": "carreira",
+      "source": "./skills/carreira",
+      "description": "Skills de carreira - posicionamento, bio, LinkedIn, curriculo, mentoria, thought leadership, portfolio e precificacao para freelancers.",
+      "category": "Carreira",
+      "keywords": [
+        "carreira",
+        "linkedin",
+        "posicionamento",
+        "curriculo",
+        "mentoria"
+      ]
+    },
+    {
+      "name": "conteudo-copy",
+      "source": "./skills/conteudo-copy",
+      "description": "Skills de conteudo e copywriting - headlines, hooks, carrosseis, roteiros de Reels, VSLs, paginas de venda, e-mails e newsletters.",
+      "category": "Conteudo & Copy",
+      "keywords": [
+        "copy",
+        "conteudo",
+        "marketing",
+        "headlines",
+        "reels",
+        "email"
+      ]
+    },
+    {
+      "name": "codigo",
+      "source": "./skills/codigo",
+      "description": "Skills para desenvolvimento de software - debugging, design de API RESTful, CI/CD, Dockerfile, code review, testes e autenticacao.",
+      "category": "Codigo",
+      "keywords": [
+        "codigo",
+        "desenvolvimento",
+        "api",
+        "debug",
+        "testes",
+        "devops"
+      ]
+    },
+    {
+      "name": "design-branding",
+      "source": "./skills/design-branding",
+      "description": "Skills de design e branding - briefing estrategico, proposta comercial, identidade visual, naming, moodboard e precificacao de projetos.",
+      "category": "Design & Branding",
+      "keywords": [
+        "design",
+        "branding",
+        "identidade-visual",
+        "naming",
+        "proposta"
+      ]
+    },
+    {
+      "name": "direcao-criativa",
+      "source": "./skills/direcao-criativa",
+      "description": "Skills de direcao criativa - conceito de campanha, direcao de arte, narrativa visual, branding estrategico e portfolio criativo.",
+      "category": "Direcao Criativa",
+      "keywords": [
+        "criativo",
+        "campanha",
+        "direcao-de-arte",
+        "narrativa",
+        "portfolio"
+      ]
+    },
+    {
+      "name": "financeiro",
+      "source": "./skills/financeiro",
+      "description": "Skills financeiros - fluxo de caixa, DRE gerencial, precificacao, contratos, conciliacao bancaria e planejamento tributario.",
+      "category": "Financeiro",
+      "keywords": [
+        "financeiro",
+        "contratos",
+        "precificacao",
+        "fluxo-de-caixa",
+        "tributario"
+      ]
+    },
+    {
+      "name": "juridico-advocacia",
+      "source": "./skills/juridico-advocacia",
+      "description": "Skills juridicos - peticoes, contestacoes, pareceres, contratos, gestao de escritorio, captacao de clientes e honorarios.",
+      "category": "Juridico & Advocacia",
+      "keywords": [
+        "juridico",
+        "advocacia",
+        "peticoes",
+        "contratos",
+        "escritorio"
+      ]
+    },
+    {
+      "name": "lideranca-equipes",
+      "source": "./skills/lideranca-equipes",
+      "description": "Skills de lideranca - OKRs, feedback estruturado, delegacao, onboarding de time, reunioes produtivas e avaliacao de desempenho.",
+      "category": "Lideranca & Equipes",
+      "keywords": [
+        "lideranca",
+        "equipes",
+        "okrs",
+        "feedback",
+        "delegacao",
+        "onboarding"
+      ]
+    },
+    {
+      "name": "marketing",
+      "source": "./skills/marketing",
+      "description": "Skills de marketing - funis de venda, campanhas Meta/TikTok Ads, propostas comerciais, scripts de reuniao e lancamentos digitais.",
+      "category": "Marketing",
+      "keywords": [
+        "marketing",
+        "vendas",
+        "ads",
+        "funil",
+        "lancamento",
+        "proposta"
+      ]
+    },
+    {
+      "name": "operacoes",
+      "source": "./skills/operacoes",
+      "description": "Skills de operacoes - SOPs, POPs, delegacao, onboarding, planejamento trimestral, gestao de projetos e diagnostico de gargalos.",
+      "category": "Operacoes",
+      "keywords": [
+        "operacoes",
+        "sop",
+        "processos",
+        "onboarding",
+        "gestao",
+        "planejamento"
+      ]
+    },
+    {
+      "name": "produto",
+      "source": "./skills/produto",
+      "description": "Skills de produto - KPIs, lancamento de produto digital, otimizacao de conversao, analise de churn, SEO e relatorios executivos.",
+      "category": "Produto",
+      "keywords": [
+        "produto",
+        "kpis",
+        "conversao",
+        "churn",
+        "lancamento",
+        "metricas"
+      ]
+    },
+    {
+      "name": "rotina",
+      "source": "./skills/rotina",
+      "description": "Skills de rotina e produtividade - planejamento semanal, batching de conteudo, GTD, blocos de foco e revisao semanal.",
+      "category": "Rotina",
+      "keywords": [
+        "rotina",
+        "produtividade",
+        "planejamento",
+        "gtd",
+        "foco",
+        "semanal"
+      ]
+    },
+    {
+      "name": "seo",
+      "source": "./skills/seo",
+      "description": "Skills de SEO e dados - analise de metricas, pesquisa de mercado, analise de concorrencia, funil de conversao e KPIs.",
+      "category": "SEO",
+      "keywords": [
+        "seo",
+        "metricas",
+        "dados",
+        "mercado",
+        "concorrencia",
+        "kpis"
+      ]
+    }
+  ]
+}

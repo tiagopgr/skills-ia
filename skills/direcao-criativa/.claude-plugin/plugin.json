@@ -1,0 +1,19 @@
+{
+  "name": "direcao-criativa",
+  "description": "Skills de direcao criativa - conceito de campanha, direcao de arte, narrativa visual, branding estrategico e portfolio criativo.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Tiago PGR",
+    "email": "tiagopgr22@gmail.com"
+  },
+  "homepage": "https://github.com/tiagopgr/skills-ia",
+  "repository": "https://github.com/tiagopgr/skills-ia",
+  "license": "MIT",
+  "keywords": [
+    "criativo",
+    "campanha",
+    "direcao-de-arte",
+    "narrativa",
+    "portfolio"
+  ]
+}

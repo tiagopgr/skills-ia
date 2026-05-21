@@ -1,0 +1,20 @@
+{
+  "name": "produto",
+  "description": "Skills de produto - KPIs, lancamento de produto digital, otimizacao de conversao, analise de churn, SEO e relatorios executivos.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Tiago PGR",
+    "email": "tiagopgr22@gmail.com"
+  },
+  "homepage": "https://github.com/tiagopgr/skills-ia",
+  "repository": "https://github.com/tiagopgr/skills-ia",
+  "license": "MIT",
+  "keywords": [
+    "produto",
+    "kpis",
+    "conversao",
+    "churn",
+    "lancamento",
+    "metricas"
+  ]
+}

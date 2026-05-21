@@ -1,0 +1,20 @@
+{
+  "name": "seo",
+  "description": "Skills de SEO e dados - analise de metricas, pesquisa de mercado, analise de concorrencia, funil de conversao e KPIs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Tiago PGR",
+    "email": "tiagopgr22@gmail.com"
+  },
+  "homepage": "https://github.com/tiagopgr/skills-ia",
+  "repository": "https://github.com/tiagopgr/skills-ia",
+  "license": "MIT",
+  "keywords": [
+    "seo",
+    "metricas",
+    "dados",
+    "mercado",
+    "concorrencia",
+    "kpis"
+  ]
+}

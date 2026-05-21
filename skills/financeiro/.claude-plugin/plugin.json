@@ -1,0 +1,19 @@
+{
+  "name": "financeiro",
+  "description": "Skills financeiros - fluxo de caixa, DRE gerencial, precificacao, contratos, conciliacao bancaria e planejamento tributario.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Tiago PGR",
+    "email": "tiagopgr22@gmail.com"
+  },
+  "homepage": "https://github.com/tiagopgr/skills-ia",
+  "repository": "https://github.com/tiagopgr/skills-ia",
+  "license": "MIT",
+  "keywords": [
+    "financeiro",
+    "contratos",
+    "precificacao",
+    "fluxo-de-caixa",
+    "tributario"
+  ]
+}

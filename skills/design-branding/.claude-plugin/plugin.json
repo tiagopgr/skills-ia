@@ -1,0 +1,19 @@
+{
+  "name": "design-branding",
+  "description": "Skills de design e branding - briefing estrategico, proposta comercial, identidade visual, naming, moodboard e precificacao de projetos.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Tiago PGR",
+    "email": "tiagopgr22@gmail.com"
+  },
+  "homepage": "https://github.com/tiagopgr/skills-ia",
+  "repository": "https://github.com/tiagopgr/skills-ia",
+  "license": "MIT",
+  "keywords": [
+    "design",
+    "branding",
+    "identidade-visual",
+    "naming",
+    "proposta"
+  ]
+}

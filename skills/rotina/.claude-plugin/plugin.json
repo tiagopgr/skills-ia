@@ -1,0 +1,20 @@
+{
+  "name": "rotina",
+  "description": "Skills de rotina e produtividade - planejamento semanal, batching de conteudo, GTD, blocos de foco e revisao semanal.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Tiago PGR",
+    "email": "tiagopgr22@gmail.com"
+  },
+  "homepage": "https://github.com/tiagopgr/skills-ia",
+  "repository": "https://github.com/tiagopgr/skills-ia",
+  "license": "MIT",
+  "keywords": [
+    "rotina",
+    "produtividade",
+    "planejamento",
+    "gtd",
+    "foco",
+    "semanal"
+  ]
+}
